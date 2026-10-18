@@ -1,0 +1,63 @@
+/* Headings */
+
+h1, h2 {
+    color: darkgreen;
+}
+
+/* Paragraphs */
+
+p {
+    color: #444444;
+}
+
+/* Unordered lists */
+
+ul {
+    border: 3px solid teal;
+}
+
+/* Ordered lists */
+
+ol {
+    border: 3px solid darkblue;
+}
+
+/* List spacing and corners */
+
+ol, ul {
+    padding: 10px 25px;
+    border-radius: 8px;
+}
+
+/* Description lists */
+
+dl {
+    color: #444444;
+    margin: 10px 0;
+}
+
+dt {
+    font-weight: bold;
+    color: darkgreen;
+}
+
+dd {
+    margin-bottom: 12px;
+}
+
+/* Bold and emphasized text */
+
+strong {
+    color: darkgreen;
+}
+
+em {
+    color: gray;
+}
+
+/* Horizontal lines */
+
+hr {
+    border: 1px solid teal;
+    margin: 25px 0;
+}
